@@ -10,9 +10,9 @@
 </p>
 
 ### 🎓 Formação e Carreira
-- [cite_start]🚀 Cursando **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac** (2024 - 2026).
+- 🚀 Cursando **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac** (2024 - 2026).
 - 💼 **Jovem Aprendiz de TI na Concentrix**: Atuo com infraestrutura de redes, suporte a usuários via **Active Directory**, manutenção de hardware e treinamento de modelos de IA.
-- [cite_start]⚡ **Técnico em Eletrônica** formado pela **ETEC Takashi Morita**[cite: 13].
+- ⚡ **Técnico em Eletrônica** formado pela **ETEC Takashi Morita**.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -34,7 +34,7 @@
 
 ### 🎯 Objetivos Atuais
 - 📖 Aprimorando conhecimentos em **Arquitetura de Sistemas** e **Segurança da Informação**.
-- 🏦 Focado em estudos para concursos na área de TI, com foco no **Banco do Brasil**.
+- 🏦 Focado em estudos para desenvolvedor Fullstack
 
 ---
 
